@@ -6,7 +6,7 @@ plugins {
 android {
     namespace = "snow.music"
 
-    compileSdk = 36
+    compileSdk = 37
 
     defaultConfig {
         applicationId = "snow.music"
